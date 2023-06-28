@@ -1,6 +1,6 @@
 # concTCP
 
-This repository contains an implementation of Concurrent TCP. 
+This repository contains a simple implementation of Concurrent TCP (Exploration Purposes). 
 It enables concurrent handling of multiple TCP connections.
 
 
